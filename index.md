@@ -5,6 +5,8 @@
 ### Practical Oracle Cloud Infrastructure
 *Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless*
 
+![Cover](https://images.springer.com/sgw/books/medium/9781484255056.jpg)
+
 Use this fast-paced and comprehensive guide to build cloud-based solutions on Oracle Cloud Infrastructure.
 
 - Apress 2020 
