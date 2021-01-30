@@ -1,17 +1,16 @@
-2021
-
-[mtjakobczyk](https://github.com/mtjakobczyk) personal space
+Welcome to [mtjakobczyk's](https://github.com/mtjakobczyk) personal GitHub page.
 
 ### Practical Oracle Cloud Infrastructure
-*Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless*
+*Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless*  
+Written and illustrated by me. Published by Apress in January 2020
 
 ![Cover](https://images.springer.com/sgw/books/medium/9781484255056.jpg)
 
 Use this fast-paced and comprehensive guide to build cloud-based solutions on Oracle Cloud Infrastructure.
 
-- Apress 2020 
 - 566 pages
 - 283 illustrations
+- plenty of code (Terraform, bash, OCI CLI, Python)
 
 Links
 - [The Book (Apress)](https://www.apress.com/gp/book/9781484255056)
