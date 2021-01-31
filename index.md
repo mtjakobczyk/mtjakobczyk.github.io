@@ -4,7 +4,7 @@ Welcome to [mtjakobczyk's](https://github.com/mtjakobczyk) personal GitHub page.
 *Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless*  
 Written and illustrated by me. Published by Apress in January 2020
 
-![Cover](https://images.springer.com/sgw/books/medium/9781484255056.jpg)
+<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/practical-oci-display.png?raw=true" height="300">
 
 Use this fast-paced and comprehensive guide to build cloud-based solutions on Oracle Cloud Infrastructure.
 
