@@ -20,6 +20,6 @@ My "frontline architecture" checklist:
 4. Are we going to host *a single distributed system with many components* or *multiple systems that require very strict isolation* in one Kubernetes cluster?
 5. What will be the nature of the workload (network-intensive stateless APIs or disk-intensive computational jobs)?
 
-This list seems ridiculously short, but believe me or not, using this "frontline architecture" approach, stuff like users, ingress, installation method can be planned a bit later.
+This list seems ridiculously short, but believe me or not, it will work. Stuff like users, ingress, installation method can be planned a bit later. Using this "frontline architecture" approach, we initially focus on the decisions required to kick-off the action fast.
 
 > One important thing: <br/>in most cases you **should always** consider using **managed Kubernetes** first, unless you have a reliable and strong DevOps manpower. Self-hosted Kubernetes is hard, comes with huge responsibility and costs "operations money". 
