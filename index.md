@@ -1,5 +1,7 @@
 Welcome to [mtjakobczyk's](https://github.com/mtjakobczyk) personal GitHub page.
 
+---
+
 ### [Tutorial] Reference application (AWS) - serverless, VPC Endpoints, private API Gateway REST API with IAM Resource Policy
 Written and illustrated by me. Published on GitHub starting in March 2022
 
@@ -15,6 +17,8 @@ Links
 - [The Tutorial (GitHub)](https://github.com/mtjakobczyk/ref-aws-serverless-private-api-gateway/blob/main/README.md)
 - [The Tutorial Code (GitHub)](https://github.com/mtjakobczyk/ref-aws-serverless-private-api-gateway)
 
+---
+
 ### [Article] First steps with Oracle Cloud Infrastructure SDK for Java
 Written and illustrated by me. Published by Java Magazine in April 2021
 
@@ -26,6 +30,8 @@ Implement the Claim Check integration pattern using Java, Oracle Cloud Object St
 Links
 - [The Article (Java Magazine)](https://blogs.oracle.com/javamagazine/post/first-steps-with-oracle-cloud-infrastructure-sdk-for-java)
 - [The Article Code (GitHub)](https://github.com/mtjakobczyk/ref-oci-sdk-claim-check)
+
+---
 
 ### [Book] Practical Oracle Cloud Infrastructure
 *Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless*  
