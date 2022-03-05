@@ -3,7 +3,7 @@ Welcome to [mtjakobczyk's](https://github.com/mtjakobczyk) personal GitHub page.
 ### [Tutorial] Reference application (AWS) - serverless, VPC Endpoints, private API Gateway REST API with IAM Resource Policy
 Written and illustrated by me. Published on GitHub starting in March 2022
 
-<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/aws-tutorial.png?raw=true" height="250">
+<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/aws-tutorial.png?raw=true" height="300">
 
 Learn how to build an AWS-based implementation of a serverless function calling a private REST API hosted on AWS API Gateway. The service call is done from within a private subnet over VPC endpoint and using fine-grained access control using IAM Resource Policy.
 
@@ -31,7 +31,7 @@ Links
 *Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless*  
 Written and illustrated by me. Published by Apress in January 2020
 
-<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/practical-oci-display.png?raw=true" height="300">
+<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/practical-oci-display.png?raw=true" height="350">
 
 Use this fast-paced and comprehensive guide to build cloud-based solutions on Oracle Cloud Infrastructure.
 
