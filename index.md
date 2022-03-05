@@ -3,9 +3,10 @@ Welcome to [mtjakobczyk's](https://github.com/mtjakobczyk) personal GitHub page.
 ### First steps with Oracle Cloud Infrastructure SDK for Java
 Written and illustrated by me. Published by Java Magazine in April 2021
 
-<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/java-mag-overview.png?raw=true" height="300">
+<img src="https://github.com/mtjakobczyk/mtjakobczyk.github.io/blob/main/pictures/java-mag-overview.png?raw=true" height="250">
 
-Learn how to control Oracle Cloud Infrastructure resources through Java code usingOCI SDK for Java. Implement the Claim Check integration pattern using Java, Oracle Cloud Object Storage and Streaming Services.
+Learn how to control Oracle Cloud Infrastructure resources through Java code usingOCI SDK for Java.  
+Implement the Claim Check integration pattern using Java, Oracle Cloud Object Storage and Streaming Services.
 
 Links
 - [The Article (Java Magazine)](https://blogs.oracle.com/javamagazine/post/first-steps-with-oracle-cloud-infrastructure-sdk-for-java)
